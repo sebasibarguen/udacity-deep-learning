@@ -10,3 +10,4 @@ __pycache__/
 *.p
 *.zip
 *.pyc
+.ipynb_checkpoints/
