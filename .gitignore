@@ -3,6 +3,7 @@
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
+face_generation/data/
 
 __pycache__/
 
@@ -11,3 +12,11 @@ __pycache__/
 *.zip
 *.pyc
 .ipynb_checkpoints/
+
+
+*.pyc
+*.p
+*.pkl 
+
+*/.floyd*
+
